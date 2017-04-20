@@ -1,0 +1,12 @@
+= asciidoc-test
+:toc
+:toclevels: 3
+:sourcedir: src
+
+Some included code:
+
+[source,java]
+.Some title
+----
+include::{sourcedir}/hello.java[]
+----
